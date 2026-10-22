@@ -9,8 +9,6 @@ A PC building and business simulation game made with Python and Pygame.
 - Save your game progress
 - Music volume and mute settings
 
-## How to Play
-
 ### Download
 Download the latest Windows Setup exe from the [Releases](../../releases) page.
 
